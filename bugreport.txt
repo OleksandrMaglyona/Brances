@@ -1,0 +1,7 @@
+Summary: The website www... doesn't open
+Project: LookUp
+Version : 3.21
+[A[C[C[C[C[C[C[C[[[C[n[C[C[C[C[C[C[C
+Severity:S1
+Priority:P1
+Status:Open
